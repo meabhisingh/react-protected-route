@@ -1,5 +1,5 @@
 {
-  "name": "react-protected-route",
+  "name": "protected-route-react",
   "version": "1.0.0",
   "description": "this is a protected route component for react router dom v6 & above",
   "main": "dist/index.js",
